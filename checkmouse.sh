@@ -1,6 +1,6 @@
 #!/bin/bash
 # Creates an OSX popup window if magic mouse battery drops below %25
-# ericwhyne@datamachines.com
+# ericwhyne at datamachines d0t com
 # Add this to crontab: 0 7 * * * /path/to/this/script.sh
 NOTIFY_FILE="/tmp/mouse_battery_low"
 export DISPLAY=:0
